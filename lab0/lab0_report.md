@@ -8,7 +8,7 @@ Group: U4225\
 Author: Laptev Anatoly Aleksandrovich\
 Lab: Lab0\
 Date of create: 29.09.2025\
-Date of finished:
+Date of finished: 29.09.2025
 
 Доказательствами выполнения лабораторной работы прошу считать историю изменений этого репозитория
 
