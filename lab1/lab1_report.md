@@ -6,11 +6,11 @@ Course: [introduction-in-web-tech](https://itmo-ict-faculty.github.io/introducti
 Year: 2025/2026\
 Group: U4225\
 Author: Laptev Anatoly Aleksandrovich\
-Lab: Lab0\
+Lab: Lab1\
 Date of create: 29.09.2025\
-Date of finished: 
+Date of finished: 29.09.2025
 
-1) docker --version
+1) docker --version\
 ![img.png](img.png)
 2) docker run hello-world
 ![img_1.png](img_1.png)
@@ -26,7 +26,7 @@ Date of finished:
 ![img_7.png](img_7.png)
 7) curl --version
 ![img_8.png](img_8.png)
-8) exit
+8) exit\
 ![img_9.png](img_9.png)
 9) docker run -d -p 8080:80 --name web-server nginx:alpine
 ![img_10.png](img_10.png)
