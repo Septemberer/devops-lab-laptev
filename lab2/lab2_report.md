@@ -1,4 +1,4 @@
-# Отчет по лабораторной №1
+# Отчет по лабораторной №2
 
 University: [ITMO University](https://itmo.ru/ru/)\
 Faculty: FTMI\
