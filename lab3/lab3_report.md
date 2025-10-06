@@ -8,7 +8,7 @@ Group: U4225\
 Author: Laptev Anatoly Aleksandrovich\
 Lab: Lab3\
 Date of create: 05.10.2025\
-Date of finished: 
+Date of finished: 06.10.2025
 
 1) Создание конфигурации Prometheus:
 * Создать папку prometheus для конфигурации

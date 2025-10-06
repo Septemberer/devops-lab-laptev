@@ -8,7 +8,7 @@ Group: U4225\
 Author: Laptev Anatoly Aleksandrovich\
 Lab: Lab2\
 Date of create: 05.10.2025\
-Date of finished: 
+Date of finished: 06.10.2025
 
 1) Подготовка проекта:
 * Создал новый репозиторий https://github.com/Septemberer/devops_lab2
