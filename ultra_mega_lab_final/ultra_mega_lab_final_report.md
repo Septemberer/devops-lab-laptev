@@ -8,10 +8,10 @@ Group: U4225\
 Author: Laptev Anatoly Aleksandrovich\
 Lab: Курсовая работа\
 Date of create: 12.10.2025\
-Date of finished:
+Date of finished: 13.10.2025
 
 0. Задеплоеный вариант можно посмотреть тут:
-
+https://septemberer.github.io/devops-lab-laptev/
 
 1. Устанавливаем Material for MkDocs\
 
